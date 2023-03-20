@@ -158,7 +158,7 @@ if __name__=='__main__':
     #在下方可以更改签到地址和二维码的enc
     address=os.environ["ADDRESS"]
     #如果地址不是敏感信息，经常改动嫌麻烦可以不设置环境变量，address='你的地址'，即可
-    #enc=''
+    #enc='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'
     
     #监测到签到活动后，延迟多久进行签到，1s=1000ms
     sleepTime=10
